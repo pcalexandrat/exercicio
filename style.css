@@ -1,7 +1,7 @@
 body{
     font-family: 'arial';
     background-color: rgb(15, 14, 14);
-    color: aliceblue;
+    color:rgb(255, 0, 17);
 }
 
 h1{
@@ -12,7 +12,7 @@ h1{
 }
 
 p{
-    color:rgb(255, 0, 17);
+    color: aliceblue;
     text-align: center;
     font-size: 16px;
     }
