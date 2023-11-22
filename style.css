@@ -5,11 +5,11 @@ body{
  
 }
 #a{
-    color:blue;
+    background-color:rgb(113, 113, 167)24, 24, 29);
 }
 
 #b{
-    color:red;
+    background-color:red;
 }
 #tituloPrincipal{
     color:rgb(21, 39, 67);
@@ -26,7 +26,7 @@ p{
 #imagem {
     width: 500px;
     margin:none;
-    align-items: center;
+    align: center;
 }
 
 
