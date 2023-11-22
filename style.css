@@ -8,10 +8,12 @@ body{
 
 #a{
     background-color:rgb(113, 113, 167);
+    margin:0;
 }
 
 #b{
     background-color:rgb(226, 170, 170);
+    margin:0;
 }
 #tituloPrincipal{
     color:rgb(21, 39, 67);
