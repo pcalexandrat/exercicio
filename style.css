@@ -38,8 +38,8 @@ p{
     }
 #imagem {
     width: 500px;
-    margin:none;
-    margin:cent;
+    margin:auto;
+    padding-block:auto;
 }
 
 
