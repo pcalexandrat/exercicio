@@ -1,4 +1,14 @@
-body{
+
+*{ 
+  margin : 0;
+  font-family: arial;
+
+}  
+header{
+    padding: 20px;
+    border-bottom: 4px, solid, #b2df85;
+}
+    body{
     font-family: 'arial';
     background-color: #0e031c;
     color:rgba(255, 0, 17, 0.886);
