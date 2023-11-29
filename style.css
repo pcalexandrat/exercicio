@@ -20,6 +20,8 @@ header{
 color:aquamarine;
 text-decoration: 0;
 font-size: 24px;
+margin: 5px;
+padding: 5px auto;
 }
 
 .menu:hover{
