@@ -44,6 +44,7 @@ font-size: 24px;
     display:flex;
     margin: 0px 10%;
     justify-content: space-around;
+    min-height: 100vh; ;
 }
 
 #b{
@@ -75,7 +76,12 @@ p{
 #imagem {
     width: 500px;
     margin:10px auto;
-   
+}
+
+.footer{
+    background-color: #000000;
+    color:azure;
+
 }
 
 
