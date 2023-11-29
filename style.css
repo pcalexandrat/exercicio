@@ -41,7 +41,7 @@ font-size: 24px;
     background-color:rgb(113, 113, 167);
     margin:0;
     border-radius: 10px;
-    display:flex;
+    display:inline-block;
     margin: 0px 10%;
     justify-content: space-around;
     min-height: 100vh; ;
